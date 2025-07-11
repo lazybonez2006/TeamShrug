@@ -20,3 +20,4 @@
 - Alexavier aviles- proj manager
 - Jonathan Sueck - developer
 - Xavier Meneses - developer 
+- Another Dev
