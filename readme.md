@@ -1,5 +1,6 @@
 ## Instructions
 - Nominate a Project Manager
+- 
 
 - Manager Creates a Discord group and Invites me
 
@@ -16,3 +17,4 @@
 ## Collaborators
 
 - Chapman (Code Sniper)
+- Alexavier aviles- proj manager
