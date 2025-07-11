@@ -1,3 +1,1 @@
-Collaborators
-
-Xavier Meneses
+Dominic Thompson
