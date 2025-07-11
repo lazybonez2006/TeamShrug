@@ -19,3 +19,4 @@
 - Chapman (Code Sniper)
 - Alexavier aviles- proj manager
 - Jonathan Sueck - developer
+- Xavier Meneses - developer 
